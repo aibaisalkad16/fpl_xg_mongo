@@ -1,0 +1,6 @@
+pandas
+requests
+pymongo
+python-dotenv
+numpy
+scikit-learn
